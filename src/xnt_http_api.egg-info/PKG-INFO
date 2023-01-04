@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: xnt-http-api
+Version: REPLACE-ME-FROM-TAG
+Summary: Libraries to work with external XNT HTTP API
+Home-page: https://exante.eu
+Author: XNT Ltd.
+Author-email: 
+License: GPL
+License-File: LICENSE
